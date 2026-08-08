@@ -1,7 +1,7 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-08-05T22:22:13.721521+00:00",
-    "count": 749,
+    "generated_at": "2026-08-08T15:13:03.488865+00:00",
+    "count": 763,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -851,6 +851,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-376492",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Margiana – ein Interview mit Rainer-Maria Weiss, Direktor des Archäologischen Museums in Hamburg",
+      "published": "2019-02-15",
+      "permalink": "https://www.geschichte.fm/podcast/extra-margiana/",
+      "year_from": -2300,
+      "year_to": -1700,
+      "era_label": "Bronzezeit",
+      "place": "Karakum-Wüste / Turkmenistan",
+      "continent": "Asien",
+      "lat": 38.0,
+      "lon": 59.0,
+      "summary": "Interview mit Archäologe Rainer-Maria Weiss über die bronzezeitliche Baktrien-Margiana-Kultur (BMAC) in der Karakum-Wüste im heutigen Turkmenistan, eine erst seit wenigen Jahrzehnten erforschte Zivilisation.",
+      "confidence": 0.7,
+      "image": "https://images.podigee-cdn.net/0x,siDYBEzP9HdM9fhOVZOAKAXuEaeeWKCPFQ4d0KtQUvyg=/https://main.podigee-cdn.net/uploads/u2838/da39d651-ed9b-4941-8181-fd539e51697c.png",
+      "audio": "https://audio.podigee-cdn.net/543504-m-ab8b426de0cedb48ebc82e0018a61a62.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": -2300,
+          "year_to": -1700,
+          "era_label": "Bronzezeit",
+          "place": "Karakum-Wüste / Turkmenistan",
+          "continent": "Asien",
+          "lat": 38.0,
+          "lon": 59.0
+        }
+      ]
+    },
+    {
       "id": "GAG201",
       "number": 201,
       "type": "regular",
@@ -1541,6 +1572,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-870500",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: A chat with Dr. Emma Southon on 21 women who shaped Roman History",
+      "published": "2024-09-01",
+      "permalink": "https://www.geschichte.fm/archiv/gag466extra/",
+      "year_from": -753,
+      "year_to": 476,
+      "era_label": "Antikes Rom",
+      "place": "Rom / Römisches Reich",
+      "continent": "Europa",
+      "lat": 41.9,
+      "lon": 12.5,
+      "summary": "Interview mit Historikerin Dr. Emma Southon über ihr Buch zu 21 Frauen, die die römische Geschichte prägten, darunter Julia Felix aus Pompeji und Alltagsleben im antiken Rom.",
+      "confidence": 0.8,
+      "image": null,
+      "audio": "https://audio.podigee-cdn.net/1580816-m-59da4e705c4a1e4b387e66281048c75b.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": -753,
+          "year_to": 476,
+          "era_label": "Antikes Rom",
+          "place": "Rom / Römisches Reich",
+          "continent": "Europa",
+          "lat": 41.9,
+          "lon": 12.5
+        }
+      ]
+    },
+    {
       "id": "GAG416",
       "number": 416,
       "type": "regular",
@@ -1605,6 +1667,37 @@ window.__DATA__ = {
           "continent": "Asien",
           "lat": 30.0,
           "lon": 53.0
+        }
+      ]
+    },
+    {
+      "id": "X-250638",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Dr. Emma Southon on murder in ancient Rome",
+      "published": "2021-04-05",
+      "permalink": "https://www.geschichte.fm/podcast/gag288extra/",
+      "year_from": -509,
+      "year_to": 476,
+      "era_label": "Antike / Römische Republik & Kaiserzeit",
+      "place": "Rom",
+      "continent": "Europa",
+      "lat": 41.9,
+      "lon": 12.5,
+      "summary": "Interview mit Historikerin Dr. Emma Southon über ihr Buch zu Mord im antiken Rom sowie die Geschichte des Tiberius Gracchus.",
+      "confidence": 0.7,
+      "image": "https://images.podigee-cdn.net/0x,sD8LTEWq5TEstfp_8VTYdmRJlpQ1d_feNcvpXSBDl1L8=/https://main.podigee-cdn.net/uploads/u32412/6fba3177-26c3-46a4-942a-ad616d79728f.png",
+      "audio": "https://audio.podigee-cdn.net/543802-m-a6eb19af659d99520a14768c867ffb05.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": -509,
+          "year_to": 476,
+          "era_label": "Antike / Römische Republik & Kaiserzeit",
+          "place": "Rom",
+          "continent": "Europa",
+          "lat": 41.9,
+          "lon": 12.5
         }
       ]
     },
@@ -2930,6 +3023,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-69726",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Dr. Emma Southon on Agrippina the Younger",
+      "published": "2019-03-30",
+      "permalink": "https://www.geschichte.fm/podcast/extra-dr-emma-southon-on-agrippina-the-younger/",
+      "year_from": 15,
+      "year_to": 59,
+      "era_label": "1. Jh. n. Chr.",
+      "place": "Römisches Reich",
+      "continent": "Europa",
+      "lat": 41.9,
+      "lon": 12.5,
+      "summary": "Englischsprachiges Bonusgespräch mit Historikerin Dr. Emma Southon über Leben und Tod Agrippinas der Jüngeren im römischen Kaiserreich des 1. Jahrhunderts.",
+      "confidence": 0.9,
+      "image": "https://images.podigee-cdn.net/0x,sXfzVixR4zi6ljD4qw18J5gRRQ-mytNKdnev7GmFREOw=/https://main.podigee-cdn.net/uploads/u2838/51b364a8-99a0-4408-90db-26ba35d1a0cc.png",
+      "audio": "https://audio.podigee-cdn.net/543528-m-abb98635e8fe4c091befacea8a3c34f6.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 15,
+          "year_to": 59,
+          "era_label": "1. Jh. n. Chr.",
+          "place": "Römisches Reich",
+          "continent": "Europa",
+          "lat": 41.9,
+          "lon": 12.5
+        }
+      ]
+    },
+    {
       "id": "GAG183",
       "number": 183,
       "type": "regular",
@@ -4114,6 +4238,37 @@ window.__DATA__ = {
           "place": "Europa",
           "continent": "Europa",
           "lat": 50.0,
+          "lon": 10.0
+        }
+      ]
+    },
+    {
+      "id": "X-518224",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Das Kinderbischofsfest",
+      "published": "2018-12-10",
+      "permalink": "https://www.geschichte.fm/podcast/extra-das-kinderbischofsfest/",
+      "year_from": 900,
+      "year_to": 1600,
+      "era_label": "Mittelalter bis Frühe Neuzeit",
+      "place": "Europa",
+      "continent": "Europa",
+      "lat": 51.0,
+      "lon": 10.0,
+      "summary": "Die Historikerin Tanja Skambraks erläutert die mittelalterliche Tradition des Kinderbischofsfests, seine Verbindung zum Nikolaustag, seine kirchliche Funktion und sein Verschwinden durch die Reformation.",
+      "confidence": 0.6,
+      "image": "https://images.podigee-cdn.net/0x,s8rOolEvNnKHPx-ZiRzG2FnZ-B9BogDoDLqpZD1-Nonw=/https://main.podigee-cdn.net/uploads/u2838/7ad1fa47-53f4-44fe-95bd-a7fb9312bbb0.png",
+      "audio": "https://audio.podigee-cdn.net/543471-m-a5c97f03483c897efacb9eab70669aa2.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 900,
+          "year_to": 1600,
+          "era_label": "Mittelalter bis Frühe Neuzeit",
+          "place": "Europa",
+          "continent": "Europa",
+          "lat": 51.0,
           "lon": 10.0
         }
       ]
@@ -7656,6 +7811,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-869645",
+      "number": null,
+      "type": "unknown",
+      "title": "Der Thronfolger (mit Melika Foroutan)",
+      "published": "2024-12-13",
+      "permalink": "https://www.geschichte.fm/archiv/bonus-plus-ultra-ep-01/",
+      "year_from": 1580,
+      "year_to": 1620,
+      "era_label": "Spätes 16. / Frühes 17. Jh.",
+      "place": "Heiliges Römisches Reich / Innerösterreich",
+      "continent": "Europa",
+      "lat": 47.8,
+      "lon": 13.0,
+      "summary": "Erzherzog Ferdinand von Innerösterreich strebt Ende des 16. Jahrhunderts die Nachfolge des kinderlosen Kaisers Rudolf II. im Heiligen Römischen Reich an – Auftakt zur Serie über den Weg in den Dreißigjährigen Krieg.",
+      "confidence": 0.85,
+      "image": "https://images.podigee-cdn.net/0x,s-fPq3jRqytaUTw3mcXr0mQp1zQjuXIBloT8TN1KxQDE=/https://main.podigee-cdn.net/uploads/u32411/a35738b1-2619-4afb-947f-870de64907ca.jpg",
+      "audio": "https://audio.podigee-cdn.net/1714695-m-5a77297c67ac642f23c9f9b28ee1b2b9.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1580,
+          "year_to": 1620,
+          "era_label": "Spätes 16. / Frühes 17. Jh.",
+          "place": "Heiliges Römisches Reich / Innerösterreich",
+          "continent": "Europa",
+          "lat": 47.8,
+          "lon": 13.0
+        }
+      ]
+    },
+    {
       "id": "GAG29",
       "number": 29,
       "type": "regular",
@@ -10997,6 +11183,37 @@ window.__DATA__ = {
           "continent": "Europa",
           "lat": 48.228,
           "lon": 16.346
+        }
+      ]
+    },
+    {
+      "id": "X-196786",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Die gesamte Führung durch den Jüdischen Friedhof Währing",
+      "published": "2018-05-07",
+      "permalink": "https://www.geschichte.fm/podcast/zs136-bonus/",
+      "year_from": 1784,
+      "year_to": 1938,
+      "era_label": "18.–20. Jh.",
+      "place": "Wien, Währing",
+      "continent": "Europa",
+      "lat": 48.228,
+      "lon": 16.347,
+      "summary": "Gesamtaufnahme einer Führung durch den jüdischen Friedhof Währing in Wien, geleitet von Historikerin Tina Walzer.",
+      "confidence": 0.7,
+      "image": "https://images.podigee-cdn.net/0x,sKntcUv6EHfarsy7epIOwvVQJhdUAf4AsuJiVGWPVbjM=/https://main.podigee-cdn.net/uploads/u2838/f7028e5a-4722-4572-b8f6-dcc13eac9138.png",
+      "audio": "https://audio.podigee-cdn.net/543354-m-5744d95b9c7c7a0bbb7601822bcc8b8a.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1784,
+          "year_to": 1938,
+          "era_label": "18.–20. Jh.",
+          "place": "Wien, Währing",
+          "continent": "Europa",
+          "lat": 48.228,
+          "lon": 16.347
         }
       ]
     },
@@ -16346,6 +16563,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-162213",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Interview mit Historiker Jürgen Zimmerer über Kolonialgeschichte",
+      "published": "2018-05-20",
+      "permalink": "https://www.geschichte.fm/podcast/zs138-extra/",
+      "year_from": 1884,
+      "year_to": 1919,
+      "era_label": "Deutsches Kaiserreich/Kolonialzeit",
+      "place": "Deutsches Kaiserreich / Deutsch-Ostafrika",
+      "continent": "Afrika",
+      "lat": -6.0,
+      "lon": 35.0,
+      "summary": "Interview mit Historiker Jürgen Zimmerer über deutsche Kolonialgeschichte, Globalisierung und den Völkermord an den Herero und Nama als Ergänzung zu Episode 138 über Askari.",
+      "confidence": 0.7,
+      "image": "https://images.podigee-cdn.net/0x,s3UAOYJL5yv3gFRUW5emsB9bjc7_DMA8w8MqTZX2ZqUQ=/https://main.podigee-cdn.net/uploads/u2838/d98c138f-d815-49db-9d6b-3c2ea7df0250.png",
+      "audio": "https://audio.podigee-cdn.net/543365-m-c79c6fa247d61ae6aee1e0d695c4c3b5.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1884,
+          "year_to": 1919,
+          "era_label": "Deutsches Kaiserreich/Kolonialzeit",
+          "place": "Deutsches Kaiserreich / Deutsch-Ostafrika",
+          "continent": "Afrika",
+          "lat": -6.0,
+          "lon": 35.0
+        }
+      ]
+    },
+    {
       "id": "GAG100",
       "number": 100,
       "type": "regular",
@@ -16996,6 +17244,37 @@ window.__DATA__ = {
           "place": "Europa (Psychiatrien)",
           "continent": "Europa",
           "lat": 50.0,
+          "lon": 10.0
+        }
+      ]
+    },
+    {
+      "id": "X-691060",
+      "number": null,
+      "type": "unknown",
+      "title": "Krankenbetten und Dauerbäder: Ein Geschichten-Extra mit Monika Ankele über Psychiatriegeschichte",
+      "published": "2020-10-13",
+      "permalink": "https://www.geschichte.fm/podcast/krankenbetten-und-dauerbaeder/",
+      "year_from": 1890,
+      "year_to": 1920,
+      "era_label": "Um 1900",
+      "place": "Europa (Psychiatrien)",
+      "continent": "Europa",
+      "lat": 51.0,
+      "lon": 10.0,
+      "summary": "Historikerin Monika Ankele erläutert, wie um 1900 Bettbehandlung und Dauerbäder die Psychiatrie prägten, und reflektiert zehn Jahre nach einem ersten Gespräch über aktuelle Forschungsprojekte zur Psychiatriegeschichte.",
+      "confidence": 0.75,
+      "image": "https://images.podigee-cdn.net/0x,sTtOybYvsSgu3umLssTctSXPTtGrOhLZS7sslhw7WwYw=/https://main.podigee-cdn.net/uploads/u2838/81b910c2-6330-4554-811b-38ed8b5fa356.png",
+      "audio": "https://audio.podigee-cdn.net/543752-m-0ebb5932a2eebf74c910ffb8f56256dd.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1890,
+          "year_to": 1920,
+          "era_label": "Um 1900",
+          "place": "Europa (Psychiatrien)",
+          "continent": "Europa",
+          "lat": 51.0,
           "lon": 10.0
         }
       ]
@@ -19678,6 +19957,68 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-204834",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Revolution 1918/19 in Bayern",
+      "published": "2019-04-07",
+      "permalink": "https://www.geschichte.fm/podcast/extra-revolution-bayern/",
+      "year_from": 1918,
+      "year_to": 1919,
+      "era_label": "Frühes 20. Jh.",
+      "place": "Bayern",
+      "continent": "Europa",
+      "lat": 48.8,
+      "lon": 11.5,
+      "summary": "Die Novemberrevolution 1918/19 in Bayern: Ablauf, Bürgerkrieg, reaktionäre Nachfolge in der Weimarer Republik und die Geschichte des Namens 'Freistaat Bayern'.",
+      "confidence": 0.98,
+      "image": "https://images.podigee-cdn.net/0x,sCy7WFh9N-bj9rfY7i3Azw6bUNxWr2yQDsHiM81ZgoLQ=/https://main.podigee-cdn.net/uploads/u2838/2fe4f01c-d217-4ddd-bcf9-a617a008dc5f.png",
+      "audio": "https://audio.podigee-cdn.net/543535-m-7bbf5632bf88dbfb4cdb1bf078d2bd1e.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1918,
+          "year_to": 1919,
+          "era_label": "Frühes 20. Jh.",
+          "place": "Bayern",
+          "continent": "Europa",
+          "lat": 48.8,
+          "lon": 11.5
+        }
+      ]
+    },
+    {
+      "id": "X-140954",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Dirk Liesemer über den Aufstand der Matrosen und den Beginn der Revolution",
+      "published": "2018-11-10",
+      "permalink": "https://www.geschichte.fm/podcast/extra-aufstand-der-matrosen/",
+      "year_from": 1918,
+      "year_to": 1919,
+      "era_label": "Frühes 20. Jh.",
+      "place": "Kiel / Deutsches Reich",
+      "continent": "Europa",
+      "lat": 54.3,
+      "lon": 10.1,
+      "summary": "Interview mit Dirk Liesemer über den Kieler Matrosenaufstand vom November 1918 als Auslöser der Novemberrevolution und deren Erinnerungskultur.",
+      "confidence": 0.98,
+      "image": "https://images.podigee-cdn.net/0x,seGlrL2boocYG3Yc7GUKtfCcyPKWlLMm0NMn-Y-izlF8=/https://main.podigee-cdn.net/uploads/u2838/32df8f32-3faa-46fe-bc69-6aba0a5114ed.png",
+      "audio": "https://audio.podigee-cdn.net/543447-m-9cb2699020bbe4f08547caa9e364f643.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1918,
+          "year_to": 1919,
+          "era_label": "Frühes 20. Jh.",
+          "place": "Kiel / Deutsches Reich",
+          "continent": "Europa",
+          "lat": 54.3,
+          "lon": 10.1
+        }
+      ]
+    },
+    {
       "id": "GAG144",
       "number": 144,
       "type": "regular",
@@ -21992,6 +22333,37 @@ window.__DATA__ = {
       ]
     },
     {
+      "id": "X-485530",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Interview mit Walfried Malleskat vom Filmmuseum Bendestorf",
+      "published": "2018-08-25",
+      "permalink": "https://www.geschichte.fm/podcast/zs150-extra/",
+      "year_from": 1947,
+      "year_to": 1951,
+      "era_label": "Nachkriegszeit",
+      "place": "Bendestorf, Deutschland",
+      "continent": "Europa",
+      "lat": 53.35,
+      "lon": 9.95,
+      "summary": "Interview mit Walfried Malleskat über die Geschichte des Filmstudios Bendestorf, die Junge Film-Union (1947), den Film 'Die Sünderin' (1951) und den heutigen Abriss des Geländes.",
+      "confidence": 0.85,
+      "image": "https://images.podigee-cdn.net/0x,sEz6iaEyvP6tviK0SY82DIpYIvATegQLgsoGpnaR7HO0=/https://main.podigee-cdn.net/uploads/u2838/fc01141c-0c91-4fce-942c-c96ee07182ea.png",
+      "audio": "https://audio.podigee-cdn.net/543410-m-8f52011dd434b838980652c7723a204d.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1947,
+          "year_to": 1951,
+          "era_label": "Nachkriegszeit",
+          "place": "Bendestorf, Deutschland",
+          "continent": "Europa",
+          "lat": 53.35,
+          "lon": 9.95
+        }
+      ]
+    },
+    {
       "id": "GAG150",
       "number": 150,
       "type": "regular",
@@ -22263,6 +22635,37 @@ window.__DATA__ = {
           "year_from": 1949,
           "year_to": 1990,
           "era_label": "DDR-Ära",
+          "place": "DDR",
+          "continent": "Europa",
+          "lat": 52.5,
+          "lon": 13.4
+        }
+      ]
+    },
+    {
+      "id": "X-529777",
+      "number": null,
+      "type": "unknown",
+      "title": "Extra: Interview mit René Feldvoß über Eishockey in der DDR",
+      "published": "2019-09-22",
+      "permalink": "https://www.geschichte.fm/podcast/zs208-extra/",
+      "year_from": 1949,
+      "year_to": 1990,
+      "era_label": "DDR-Zeit (1949–1990)",
+      "place": "DDR",
+      "continent": "Europa",
+      "lat": 52.5,
+      "lon": 13.4,
+      "summary": "Interview mit Historiker René Feldvoß über Eishockey in der DDR: von der gesamtdeutschen Olympia-Bedeutung bis zur Zwei-Vereine-Liga mit Dynamo Berlin und Dynamo Weißwasser unter Mielkes Einfluss.",
+      "confidence": 0.95,
+      "image": "https://images.podigee-cdn.net/0x,sPV9CpaViz9lmVZtqEiPvseh2fG6gyCImL5mB9QFbXJE=/https://main.podigee-cdn.net/uploads/u2838/b4fdb6f1-6df5-4ae1-b434-c1a66892456c.png",
+      "audio": "https://audio.podigee-cdn.net/543614-m-abd594ec3d1a8350940292bebedd0785.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1949,
+          "year_to": 1990,
+          "era_label": "DDR-Zeit (1949–1990)",
           "place": "DDR",
           "continent": "Europa",
           "lat": 52.5,
@@ -23795,6 +24198,37 @@ window.__DATA__ = {
           "continent": "Europa",
           "lat": 51.0,
           "lon": 10.0
+        }
+      ]
+    },
+    {
+      "id": "X-527988",
+      "number": null,
+      "type": "unknown",
+      "title": "ZS00: Jingle",
+      "published": "2015-09-25",
+      "permalink": "https://www.geschichte.fm/podcast/zs00",
+      "year_from": 2016,
+      "year_to": 2016,
+      "era_label": "21. Jh.",
+      "place": "Österreich",
+      "continent": "Europa",
+      "lat": 47.8,
+      "lon": 13.0,
+      "summary": "Vor dem Start des Podcasts 'Geschichten aus der Geschichte' wird testweise der Jingle veröffentlicht.",
+      "confidence": 0.3,
+      "image": "https://images.podigee-cdn.net/0x,sQ5ypsfVIbDeCOhysCMbSBOVhswGa2n_tNsPtACZi174=/https://main.podigee-cdn.net/uploads/u2838/00802019-9afa-46d4-b1a7-aba17a4fcd69.png",
+      "audio": "https://audio.podigee-cdn.net/543024-m-9be5050316970291b762bfcc7df4977c.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 2016,
+          "year_to": 2016,
+          "era_label": "21. Jh.",
+          "place": "Österreich",
+          "continent": "Europa",
+          "lat": 47.8,
+          "lon": 13.0
         }
       ]
     },
