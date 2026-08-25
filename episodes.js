@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-08-25T12:28:02.059469+00:00",
+    "generated_at": "2026-08-25T12:32:12.408810+00:00",
     "count": 583,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
@@ -464,7 +464,7 @@ window.__DATA__ = {
       "summary": "Interview über die bronzezeitliche Margiana-Kultur (BMAC) in der Karakum-Wüste Turkmenistans, die erst seit wenigen Jahrzehnten archäologisch erforscht wird.",
       "confidence": 0.72,
       "image": "https://images.podigee-cdn.net/0x,siDYBEzP9HdM9fhOVZOAKAXuEaeeWKCPFQ4d0KtQUvyg=/https://main.podigee-cdn.net/uploads/u2838/da39d651-ed9b-4941-8181-fd539e51697c.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543504-m-ab8b426de0cedb48ebc82e0018a61a62.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -782,7 +782,7 @@ window.__DATA__ = {
       "summary": "Interview mit Historikerin Dr. Emma Southon über ihr Buch zu 21 Frauen, die die Geschichte Roms prägten, darunter Julia Felix aus Pompeji und Alltagskultur im antiken Rom.",
       "confidence": 0.6,
       "image": null,
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/1580816-m-59da4e705c4a1e4b387e66281048c75b.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -1264,7 +1264,7 @@ window.__DATA__ = {
       "summary": "Interview mit Historikerin Dr. Emma Southon über Mord im antiken Rom, insbesondere über das Schicksal des Tiberius Gracchus.",
       "confidence": 0.6,
       "image": "https://images.podigee-cdn.net/0x,sD8LTEWq5TEstfp_8VTYdmRJlpQ1d_feNcvpXSBDl1L8=/https://main.podigee-cdn.net/uploads/u32412/6fba3177-26c3-46a4-942a-ad616d79728f.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543802-m-a6eb19af659d99520a14768c867ffb05.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -1427,7 +1427,7 @@ window.__DATA__ = {
       "summary": "Gespräch mit Historikerin Dr. Emma Southon über Leben und Wirken Agrippinas der Jüngeren, Mutter Neros, im frühen Römischen Kaiserreich.",
       "confidence": 0.85,
       "image": "https://images.podigee-cdn.net/0x,sXfzVixR4zi6ljD4qw18J5gRRQ-mytNKdnev7GmFREOw=/https://main.podigee-cdn.net/uploads/u2838/51b364a8-99a0-4408-90db-26ba35d1a0cc.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543528-m-abb98635e8fe4c091befacea8a3c34f6.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -2461,7 +2461,7 @@ window.__DATA__ = {
       "summary": "Die mittelalterliche Tradition des Kinderbischofsfests, bei der Kinder symbolisch das Bischofsamt übernahmen, wird in Entstehung, Funktion und ihrem Verschwinden durch die Reformation beleuchtet.",
       "confidence": 0.7,
       "image": "https://images.podigee-cdn.net/0x,s8rOolEvNnKHPx-ZiRzG2FnZ-B9BogDoDLqpZD1-Nonw=/https://main.podigee-cdn.net/uploads/u2838/7ad1fa47-53f4-44fe-95bd-a7fb9312bbb0.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543471-m-a5c97f03483c897efacb9eab70669aa2.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -5409,7 +5409,7 @@ window.__DATA__ = {
       "summary": "Erzherzog Ferdinand von Innerösterreich strebt Ende des 16. Jahrhunderts die Nachfolge des kinderlosen Kaisers Rudolf II. an und überwindet dabei verschiedene Hürden auf dem Weg zum Thron.",
       "confidence": 0.75,
       "image": "https://images.podigee-cdn.net/0x,s-fPq3jRqytaUTw3mcXr0mQp1zQjuXIBloT8TN1KxQDE=/https://main.podigee-cdn.net/uploads/u32411/a35738b1-2619-4afb-947f-870de64907ca.jpg",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/1714695-m-5a77297c67ac642f23c9f9b28ee1b2b9.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -8382,7 +8382,7 @@ window.__DATA__ = {
       "summary": "Audioführung durch den historischen jüdischen Friedhof Währing in Wien, geleitet von Historikerin Tina Walzer.",
       "confidence": 0.7,
       "image": "https://images.podigee-cdn.net/0x,sKntcUv6EHfarsy7epIOwvVQJhdUAf4AsuJiVGWPVbjM=/https://main.podigee-cdn.net/uploads/u2838/f7028e5a-4722-4572-b8f6-dcc13eac9138.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543354-m-5744d95b9c7c7a0bbb7601822bcc8b8a.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -13402,7 +13402,7 @@ window.__DATA__ = {
       "summary": "Interview mit Historiker Jürgen Zimmerer über die deutsche Kolonialgeschichte, Askari-Soldaten und den Völkermord an Herero und Nama im Kontext von Globalisierung und kolonialem Erbe.",
       "confidence": 0.6,
       "image": "https://images.podigee-cdn.net/0x,s3UAOYJL5yv3gFRUW5emsB9bjc7_DMA8w8MqTZX2ZqUQ=/https://main.podigee-cdn.net/uploads/u2838/d98c138f-d815-49db-9d6b-3c2ea7df0250.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543365-m-c79c6fa247d61ae6aee1e0d695c4c3b5.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -13716,7 +13716,7 @@ window.__DATA__ = {
       "summary": "Die Historikerin Monika Ankele untersucht, wie sich um 1900 die Psychiatriebehandlung durch Bettruhe und Dauerbäder grundlegend veränderte und wie sich dies auf den Alltag der Patientinnen und Patienten auswirkte.",
       "confidence": 0.72,
       "image": "https://images.podigee-cdn.net/0x,sTtOybYvsSgu3umLssTctSXPTtGrOhLZS7sslhw7WwYw=/https://main.podigee-cdn.net/uploads/u2838/81b910c2-6330-4554-811b-38ed8b5fa356.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543752-m-0ebb5932a2eebf74c910ffb8f56256dd.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -15618,7 +15618,7 @@ window.__DATA__ = {
       "summary": "Die Revolution von 1918/19 in Bayern: Verlauf, Folgen und die reaktionäre Nachphase während der Weimarer Republik sowie die Herkunft des Namens 'Freistaat Bayern'.",
       "confidence": 0.98,
       "image": "https://images.podigee-cdn.net/0x,sCy7WFh9N-bj9rfY7i3Azw6bUNxWr2yQDsHiM81ZgoLQ=/https://main.podigee-cdn.net/uploads/u2838/2fe4f01c-d217-4ddd-bcf9-a617a008dc5f.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543535-m-7bbf5632bf88dbfb4cdb1bf078d2bd1e.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -15649,7 +15649,7 @@ window.__DATA__ = {
       "summary": "Der Kieler Matrosenaufstand vom November 1918 als Auslöser der Novemberrevolution wird anhand zeitgenössischer Quellen und im Kontext der Erinnerungskultur beleuchtet.",
       "confidence": 0.98,
       "image": "https://images.podigee-cdn.net/0x,seGlrL2boocYG3Yc7GUKtfCcyPKWlLMm0NMn-Y-izlF8=/https://main.podigee-cdn.net/uploads/u2838/32df8f32-3faa-46fe-bc69-6aba0a5114ed.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543447-m-9cb2699020bbe4f08547caa9e364f643.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -17467,7 +17467,7 @@ window.__DATA__ = {
       "summary": "Interview über die Geschichte des Filmstudios Bendestorf, die Gründung der Jungen Film-Union 1947, den Film 'Die Sünderin' und den heutigen Abriss der Produktionshallen.",
       "confidence": 0.82,
       "image": "https://images.podigee-cdn.net/0x,sEz6iaEyvP6tviK0SY82DIpYIvATegQLgsoGpnaR7HO0=/https://main.podigee-cdn.net/uploads/u2838/fc01141c-0c91-4fce-942c-c96ee07182ea.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543410-m-8f52011dd434b838980652c7723a204d.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -17529,7 +17529,7 @@ window.__DATA__ = {
       "summary": "Eishockey in der DDR zwischen politischer Instrumentalisierung im gesamtdeutschen Olympia-Team und dem Kuriosum einer Profiliga mit nur zwei Vereinen nach dem Leistungssportbeschluss von 1969.",
       "confidence": 0.85,
       "image": "https://images.podigee-cdn.net/0x,sPV9CpaViz9lmVZtqEiPvseh2fG6gyCImL5mB9QFbXJE=/https://main.podigee-cdn.net/uploads/u2838/b4fdb6f1-6df5-4ae1-b434-c1a66892456c.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543614-m-abd594ec3d1a8350940292bebedd0785.mp3?source=feed",
       "related": [],
       "points": [
         {
@@ -18654,7 +18654,7 @@ window.__DATA__ = {
       "summary": "Testfolge des Geschichtspodcasts 'Geschichten aus der Geschichte' mit Vorstellung des Jingles vor dem offiziellen Start.",
       "confidence": 0.3,
       "image": "https://images.podigee-cdn.net/0x,sQ5ypsfVIbDeCOhysCMbSBOVhswGa2n_tNsPtACZi174=/https://main.podigee-cdn.net/uploads/u2838/00802019-9afa-46d4-b1a7-aba17a4fcd69.png",
-      "audio": null,
+      "audio": "https://audio.podigee-cdn.net/543024-m-9be5050316970291b762bfcc7df4977c.mp3?source=feed",
       "related": [],
       "points": [
         {
