@@ -1,7 +1,7 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-08-25T12:32:12.408810+00:00",
-    "count": 583,
+    "generated_at": "2026-08-26T18:24:17.748348+00:00",
+    "count": 584,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -9288,6 +9288,44 @@ window.__DATA__ = {
           "continent": "Europa",
           "lat": 48.2,
           "lon": 16.37
+        }
+      ]
+    },
+    {
+      "id": "GAG570",
+      "number": 570,
+      "type": "regular",
+      "title": "GAG570: Die Erfindung der Konservendose",
+      "published": "2026-08-26",
+      "permalink": "https://gadg.fm/570",
+      "year_from": 1802,
+      "year_to": 1850,
+      "era_label": "frühes 19. Jh.",
+      "place": "Paris / Frankreich",
+      "continent": "Europa",
+      "lat": 48.8,
+      "lon": 2.3,
+      "summary": "Die Folge erzählt, wie Nicolas Appert 1802 die erste Konservenfabrik gründete, die Hitzesterilisation erfand und wie andere Unternehmer die Konservendose zur Massenware machten.",
+      "confidence": 0.92,
+      "image": "https://images.podigee-cdn.net/0x,sgwYkEc_Wbka4-AQqrUtvuEj3TOvNFg1ruYd7shkjb5E=/https://main.podigee-cdn.net/uploads/u32412/05b33982-cdb7-4444-81d0-b8de8d0e8a58.jpg",
+      "audio": "https://audio.podigee-cdn.net/2572837-m-987b3abcce09a8b562d0b7538b0f2fae.mp3?source=feed",
+      "related": [
+        "GAG23",
+        "GAG126",
+        "GAG324",
+        "GAG453",
+        "GAG483",
+        "GAG531"
+      ],
+      "points": [
+        {
+          "year_from": 1802,
+          "year_to": 1850,
+          "era_label": "frühes 19. Jh.",
+          "place": "Paris / Frankreich",
+          "continent": "Europa",
+          "lat": 48.8,
+          "lon": 2.3
         }
       ]
     },
