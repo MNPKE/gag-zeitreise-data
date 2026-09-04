@@ -1,7 +1,7 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-08-26T18:24:17.748348+00:00",
-    "count": 584,
+    "generated_at": "2026-09-04T08:34:51.675276+00:00",
+    "count": 585,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -1051,6 +1051,41 @@ window.__DATA__ = {
           "continent": "Asien",
           "lat": 20.5,
           "lon": 80.0
+        }
+      ]
+    },
+    {
+      "id": "GAG571",
+      "number": 571,
+      "type": "regular",
+      "title": "GAG571: Die Katastrophe von Kamarina und die erste Flotte Roms",
+      "published": "2026-09-02",
+      "permalink": "https://gadg.fm/571",
+      "year_from": -264,
+      "year_to": -255,
+      "era_label": "3. Jh. v. Chr.",
+      "place": "Sizilien / Südküste bei Kamarina",
+      "continent": "Europa",
+      "lat": 36.87,
+      "lon": 14.44,
+      "summary": "Im Ersten Punischen Krieg scheitert 255 v. Chr. eine riesige römische Flotte an der sizilianischen Südküste bei Kamarina – die Folge beleuchtet Roms Aufstieg zur Seemacht und den Umgang mit militärischen Katastrophen.",
+      "confidence": 0.92,
+      "image": "https://images.podigee-cdn.net/0x,sRl5pEonFYXwx6AdVpAo7zNI1iJrD5yeSU15ZDJKfiv4=/https://main.podigee-cdn.net/uploads/u32411/a999fe55-e4c8-493e-86ab-e808f7b94c63.jpg",
+      "audio": "https://audio.podigee-cdn.net/2574210-m-aa186840b1e639eaf7ae41e7975b6527.mp3?source=feed",
+      "related": [
+        "GAG393",
+        "GAG406",
+        "GAG435"
+      ],
+      "points": [
+        {
+          "year_from": -264,
+          "year_to": -255,
+          "era_label": "3. Jh. v. Chr.",
+          "place": "Sizilien / Südküste bei Kamarina",
+          "continent": "Europa",
+          "lat": 36.87,
+          "lon": 14.44
         }
       ]
     },
