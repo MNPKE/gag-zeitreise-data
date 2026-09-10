@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T08:34:51.675276+00:00",
-    "count": 585,
+    "generated_at": "2026-09-10T12:42:32.974071+00:00",
+    "count": 586,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -13893,6 +13893,42 @@
           "continent": "Ozeanien",
           "lat": 21.3,
           "lon": -157.8
+        }
+      ]
+    },
+    {
+      "id": "GAG572",
+      "number": 572,
+      "type": "regular",
+      "title": "GAG572: Houdini und der Spiritismus",
+      "published": "2026-09-09",
+      "permalink": "https://gadg.fm/572",
+      "year_from": 1890,
+      "year_to": 1926,
+      "era_label": "Spätes 19. / frühes 20. Jh.",
+      "place": "USA / Atlantic City",
+      "continent": "Nordamerika",
+      "lat": 39.36,
+      "lon": -74.42,
+      "summary": "Die Folge beleuchtet die Geschichte der Zauberkunst und die zunächst freundschaftliche, dann feindschaftliche Beziehung zwischen Harry Houdini und Arthur Conan Doyle im Kontext des Spiritismus, ausgelöst durch eine Séance 1922 in Atlantic City.",
+      "confidence": 0.92,
+      "image": "https://images.podigee-cdn.net/0x,s6WBVB8l5m-HZ6Y438JCFwEK7UYFJPu40rynLdV0aNfg=/https://main.podigee-cdn.net/uploads/u32412/0386fc71-f3f9-464d-9bcd-185d0e9a0613.jpg",
+      "audio": "https://audio.podigee-cdn.net/2579779-m-688b77805c2a652b3f6ada81704f4eca.mp3?source=feed",
+      "related": [
+        "GAG237",
+        "GAG251",
+        "GAG305",
+        "GAG505"
+      ],
+      "points": [
+        {
+          "year_from": 1890,
+          "year_to": 1926,
+          "era_label": "Spätes 19. / frühes 20. Jh.",
+          "place": "USA / Atlantic City",
+          "continent": "Nordamerika",
+          "lat": 39.36,
+          "lon": -74.42
         }
       ]
     },
