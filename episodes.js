@@ -1,7 +1,7 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-09-10T12:42:32.974071+00:00",
-    "count": 586,
+    "generated_at": "2026-09-18T10:41:42.190433+00:00",
+    "count": 587,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -9323,6 +9323,42 @@ window.__DATA__ = {
           "continent": "Europa",
           "lat": 48.2,
           "lon": 16.37
+        }
+      ]
+    },
+    {
+      "id": "GAG573",
+      "number": 573,
+      "type": "regular",
+      "title": "GAG573: Scrip, Truck und der Company Store",
+      "published": "2026-09-16",
+      "permalink": "https://gadg.fm/573",
+      "year_from": 1800,
+      "year_to": 1930,
+      "era_label": "19./frühes 20. Jh.",
+      "place": "Appalachen, USA",
+      "continent": "Nordamerika",
+      "lat": 37.5,
+      "lon": -81.5,
+      "summary": "Die Folge beleuchtet das System von Scrip (Geldersatz), Company Stores und Company Towns in den Kohlebergwerken der Appalachen im 19. und frühen 20. Jahrhundert und wie es Bergleute in wirtschaftliche Abhängigkeit trieb.",
+      "confidence": 0.9,
+      "image": "https://images.podigee-cdn.net/0x,sFD8QOMdKaMd9CZuFgEoQPH6IYr7-PinzP1mdDiIsQRI=/https://main.podigee-cdn.net/uploads/u32411/a100ee20-4d2c-4d16-bf4b-2e87dbfa8a72.jpg",
+      "audio": "https://audio.podigee-cdn.net/2589603-m-3a071f5ba0c2f4575851c9184b535d2b.mp3?source=feed",
+      "related": [
+        "GAG56",
+        "GAG87",
+        "GAG376",
+        "GAG456"
+      ],
+      "points": [
+        {
+          "year_from": 1800,
+          "year_to": 1930,
+          "era_label": "19./frühes 20. Jh.",
+          "place": "Appalachen, USA",
+          "continent": "Nordamerika",
+          "lat": 37.5,
+          "lon": -81.5
         }
       ]
     },
