@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T10:41:42.190433+00:00",
-    "count": 587,
+    "generated_at": "2026-09-23T15:09:09.472653+00:00",
+    "count": 588,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -9359,6 +9359,41 @@
           "continent": "Nordamerika",
           "lat": 37.5,
           "lon": -81.5
+        }
+      ]
+    },
+    {
+      "id": "GAG574",
+      "number": 574,
+      "type": "regular",
+      "title": "GAG574: Dirndl und Lederhosen",
+      "published": "2026-09-23",
+      "permalink": "https://gadg.fm/574",
+      "year_from": 1800,
+      "year_to": 1900,
+      "era_label": "19. Jh.",
+      "place": "Bayern / Alpenraum",
+      "continent": "Europa",
+      "lat": 47.8,
+      "lon": 12.0,
+      "summary": "Die Folge erklärt, wie Dirndl und Lederhosen im 19. Jahrhundert als bewusst konstruierte Trachten entstanden und sich trotz anfänglicher Ablehnung als bayerisches Kulturgut etablierten.",
+      "confidence": 0.85,
+      "image": "https://images.podigee-cdn.net/0x,sRbGt4reZb_K4J-rqPnGwiF1H2JjdhwtzZQ2m0iSL73g=/https://main.podigee-cdn.net/uploads/u32412/a3b4d8a2-f931-432e-881a-fa05f0f888fa.jpg",
+      "audio": "https://audio.podigee-cdn.net/2595027-m-6fc925858050f51cb31db5c6be0fec86.mp3?source=feed",
+      "related": [
+        "GAG1",
+        "GAG475",
+        "GAG501"
+      ],
+      "points": [
+        {
+          "year_from": 1800,
+          "year_to": 1900,
+          "era_label": "19. Jh.",
+          "place": "Bayern / Alpenraum",
+          "continent": "Europa",
+          "lat": 47.8,
+          "lon": 12.0
         }
       ]
     },
