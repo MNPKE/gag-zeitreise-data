@@ -1,7 +1,7 @@
 window.__DATA__ = {
   "meta": {
-    "generated_at": "2026-09-23T15:09:09.472653+00:00",
-    "count": 588,
+    "generated_at": "2026-10-05T12:15:37.728913+00:00",
+    "count": 589,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -6052,6 +6052,42 @@ window.__DATA__ = {
           "continent": "Europa",
           "lat": 48.5,
           "lon": 18.5
+        }
+      ]
+    },
+    {
+      "id": "GAG575",
+      "number": 575,
+      "type": "regular",
+      "title": "GAG575: Hasekura Tsunenaga und die  Keichō-Gesandtschaft",
+      "published": "2026-09-30",
+      "permalink": "https://gadg.fm/575",
+      "year_from": 1613,
+      "year_to": 1620,
+      "era_label": "Frühes 17. Jh.",
+      "place": "Japan / Spanien / Europa",
+      "continent": "Global",
+      "lat": 35.0,
+      "lon": 50.0,
+      "summary": "Die Keichō-Gesandtschaft: Ab 1613 zieht Hasekura Tsunenaga im Auftrag des Daimyō Date Masamune durch Europa, um Handel und Missionare für Japan zu gewinnen – ein Unterfangen, das zunehmend aussichtslos wird.",
+      "confidence": 0.95,
+      "image": "https://images.podigee-cdn.net/0x,sGj6mksfCbHtu8m6_uTz6ehAAi1QC6F9v6MuxS54Ip8Q=/https://main.podigee-cdn.net/uploads/u32411/2a67fee9-90ae-458e-b2c2-18f37f48d3dd.jpg",
+      "audio": "https://audio.podigee-cdn.net/2600820-m-4761bf73d4ac3f60f7148ad0e31e7e50.mp3?source=feed",
+      "related": [
+        "GAG151",
+        "GAG279",
+        "GAG311",
+        "GAG322"
+      ],
+      "points": [
+        {
+          "year_from": 1613,
+          "year_to": 1620,
+          "era_label": "Frühes 17. Jh.",
+          "place": "Japan / Spanien / Europa",
+          "continent": "Global",
+          "lat": 35.0,
+          "lon": 50.0
         }
       ]
     },
