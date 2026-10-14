@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T12:15:37.728913+00:00",
-    "count": 589,
+    "generated_at": "2026-10-14T11:11:04.915558+00:00",
+    "count": 591,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -14983,6 +14983,77 @@
           "continent": "Afrika",
           "lat": 6.7,
           "lon": -1.6
+        }
+      ]
+    },
+    {
+      "id": "GAG577",
+      "number": 577,
+      "type": "regular",
+      "title": "GAG577: Wie der Kühlschrank in unsere Küchen kam",
+      "published": "2026-10-14",
+      "permalink": "https://gadg.fm/577",
+      "year_from": 1900,
+      "year_to": 1950,
+      "era_label": "frühes 20. Jh. / Zwischenkriegszeit",
+      "place": "USA / Europa",
+      "continent": "Global",
+      "lat": null,
+      "lon": null,
+      "summary": "Die Folge erzählt, wie der elektrische Kühlschrank vom Misstrauen der frühen 1900er Jahre über technische Innovationen bis zur Massentauglichkeit in der Zwischenkriegszeit in die Haushalte gelangte – u. a. mit Beitrag von Einstein und Szilárd.",
+      "confidence": 0.72,
+      "image": "https://images.podigee-cdn.net/0x,s7Ubr3AMbX2aAsOE4q7tT7lnH3iB_tUZMPyXMZp_eukE=/https://main.podigee-cdn.net/uploads/u32411/684996e7-c9f6-44c6-b62b-3f1abd4f889f.jpg",
+      "audio": "https://audio.podigee-cdn.net/2612855-m-480e7d7508bcf7bc0f5efe169fcb3466.mp3?source=feed",
+      "related": [
+        "GAG21",
+        "GAG344",
+        "GAG450",
+        "GAG480"
+      ],
+      "points": [
+        {
+          "year_from": 1900,
+          "year_to": 1950,
+          "era_label": "frühes 20. Jh. / Zwischenkriegszeit",
+          "place": "USA / Europa",
+          "continent": "Global",
+          "lat": null,
+          "lon": null
+        }
+      ]
+    },
+    {
+      "id": "GAG576",
+      "number": 576,
+      "type": "regular",
+      "title": "GAG576: Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters",
+      "published": "2026-10-07",
+      "permalink": "https://gadg.fm/576",
+      "year_from": 1901,
+      "year_to": 1914,
+      "era_label": "Frühes 20. Jh.",
+      "place": "Iran / Persien & Kalifornien",
+      "continent": "Global",
+      "lat": 32.0,
+      "lon": 53.0,
+      "summary": "Die Folge beleuchtet die Anfänge des Erdölzeitalters: von der D'Arcy-Konzession in Persien über den spektakulären Lakeview-Gusher in Kalifornien 1910 bis zu den weltpolitischen Folgen der frühen Ölindustrie.",
+      "confidence": 0.72,
+      "image": "https://images.podigee-cdn.net/0x,sZe9WBBw9ko4UpxloIMuaizEsRwFqe4L1a1mQSji0sh4=/https://main.podigee-cdn.net/uploads/u32412/28784f35-d15e-4db8-b738-db1f6c7b62ec.jpg",
+      "audio": "https://audio.podigee-cdn.net/2606597-m-81dcf58b69f33a53276082ae1a8dfc14.mp3?source=feed",
+      "related": [
+        "GAG211",
+        "GAG458",
+        "GAG463"
+      ],
+      "points": [
+        {
+          "year_from": 1901,
+          "year_to": 1914,
+          "era_label": "Frühes 20. Jh.",
+          "place": "Iran / Persien & Kalifornien",
+          "continent": "Global",
+          "lat": 32.0,
+          "lon": 53.0
         }
       ]
     },
