@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T11:11:04.915558+00:00",
-    "count": 591,
+    "generated_at": "2026-10-24T06:32:29.802628+00:00",
+    "count": 592,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -15408,6 +15408,46 @@
           "continent": "Europa",
           "lat": 51.5,
           "lon": -0.1
+        }
+      ]
+    },
+    {
+      "id": "GAG578",
+      "number": 578,
+      "type": "regular",
+      "title": "GAG578: HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "published": "2026-10-21",
+      "permalink": "https://gadg.fm/578",
+      "year_from": 1910,
+      "year_to": 1916,
+      "era_label": "Frühes 20. Jh.",
+      "place": "Nordatlantik",
+      "continent": "Europa",
+      "lat": 41.7,
+      "lon": -49.9,
+      "summary": "Zwei Geschichten: Violet Jessop überlebte alle drei Schiffe der Olympic-Klasse inkl. die Titanic; Ibn Battuta brach zu einer Pilgerfahrt auf und bereiste dabei die gesamte islamische Welt.",
+      "confidence": 0.88,
+      "image": "https://images.podigee-cdn.net/0x,sSAAIhbJJZh3PSYdxzL4VDVCJOlUpobOqjlYBY6zlmQE=/https://main.podigee-cdn.net/uploads/u32412/8ce84c4d-7235-448c-bd82-8f94969a538d.jpg",
+      "audio": "https://audio.podigee-cdn.net/2617971-m-b7efc95721e57dd82e21638d57bd0dde.mp3?source=feed",
+      "related": [],
+      "points": [
+        {
+          "year_from": 1910,
+          "year_to": 1916,
+          "era_label": "Frühes 20. Jh.",
+          "place": "Nordatlantik",
+          "continent": "Europa",
+          "lat": 41.7,
+          "lon": -49.9
+        },
+        {
+          "year_from": 1325,
+          "year_to": 1354,
+          "era_label": "14. Jh.",
+          "place": "Islamische Welt / Nordafrika / Asien",
+          "continent": "Global",
+          "lat": 34.0,
+          "lon": 18.0
         }
       ]
     },
