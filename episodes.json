@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T06:32:29.802628+00:00",
-    "count": 592,
+    "generated_at": "2026-10-28T21:30:56.230713+00:00",
+    "count": 593,
     "edited": 11,
     "source": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3"
   },
@@ -13531,6 +13531,42 @@
           "continent": "Afrika",
           "lat": 24.0,
           "lon": 5.0
+        }
+      ]
+    },
+    {
+      "id": "GAG579",
+      "number": 579,
+      "type": "regular",
+      "title": "GAG579: Als 1900 die Taxis schon elektrisch fuhren",
+      "published": "2026-10-28",
+      "permalink": "https://gadg.fm/579",
+      "year_from": 1880,
+      "year_to": 1920,
+      "era_label": "Um 1900",
+      "place": "Hamburg / Europa",
+      "continent": "Europa",
+      "lat": 53.55,
+      "lon": 10.0,
+      "summary": "Die Folge beleuchtet die frühe Blütezeit der Elektromobilität um 1900, von Hamburger Elektrotaxis über Batterieentwicklung bis zum ersten Porsche, und erklärt deren raschen Niedergang.",
+      "confidence": 0.9,
+      "image": "https://images.podigee-cdn.net/0x,sH3G3kpDSMjBR_LxEBClnAawozNU_95AG333fMSvMuGg=/https://main.podigee-cdn.net/uploads/u32412/d30ad8cd-cd01-45f9-bc10-6e1afcb1cee7.jpg",
+      "audio": "https://audio.podigee-cdn.net/2623867-m-74e36d581f360d493da9bb8cd14b1b11.mp3?source=feed",
+      "related": [
+        "GAG361",
+        "GAG442",
+        "GAG566",
+        "GAG577"
+      ],
+      "points": [
+        {
+          "year_from": 1880,
+          "year_to": 1920,
+          "era_label": "Um 1900",
+          "place": "Hamburg / Europa",
+          "continent": "Europa",
+          "lat": 53.55,
+          "lon": 10.0
         }
       ]
     },
